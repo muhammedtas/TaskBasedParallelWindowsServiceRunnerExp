@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integrator.Service", "Integrator.Service\Integrator.Service.csproj", "{9C1D821B-F99F-46BA-B118-BFB17DF66105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integrator.Service.Test", "Integrator.Service.Test\Integrator.Service.Test.csproj", "{F8835B4F-390A-41CB-A321-7B00C9F38FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1D821B-F99F-46BA-B118-BFB17DF66105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1D821B-F99F-46BA-B118-BFB17DF66105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1D821B-F99F-46BA-B118-BFB17DF66105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1D821B-F99F-46BA-B118-BFB17DF66105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8835B4F-390A-41CB-A321-7B00C9F38FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8835B4F-390A-41CB-A321-7B00C9F38FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8835B4F-390A-41CB-A321-7B00C9F38FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8835B4F-390A-41CB-A321-7B00C9F38FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {131606D2-F3C1-486A-BADE-ECD9AE5CD50E}
+	EndGlobalSection
+EndGlobal
